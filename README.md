@@ -20,9 +20,9 @@ Bad quality of image or NASA pc required !
 
 ## Screenshots
 
-![](https://github.com/EpitechPromo2026/B-OOP-400-NCY-4-1-raytracer-flavien.maameri/blob/main/resultat/echecrubick169.jpg)
+![](https://github.com/Babix231/Raytracer-Epitech/blob/main/resultat/echecrubick169.jpg)
 
-![](https://github.com/EpitechPromo2026/B-OOP-400-NCY-4-1-raytracer-flavien.maameri/blob/main/resultat/rubiks.jpg)
+![](https://github.com/Babix231/Raytracer-Epitech/blob/main/resultat/rubiks.jpg)
 
 ## Optimizations
 
